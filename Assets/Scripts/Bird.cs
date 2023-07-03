@@ -3,8 +3,8 @@ using UnityEngine;
 
 public class Bird : MonoBehaviour
 {
-    [SerializeField] float launchForce = 500;
-    [SerializeField] float maxDragDistance = 1;
+    [SerializeField] float launchForce;
+    [SerializeField] float maxDragDistance;
     Vector2 startPostion;
     Rigidbody2D rigid2D;
     SpriteRenderer spriteRenderer;
