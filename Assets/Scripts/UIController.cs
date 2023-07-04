@@ -5,11 +5,9 @@ using UnityEngine.UI;
 
 public class UIController : MonoBehaviour
 {
-    public Transform startPostion;
-    public Image[] Birds;
-
-    public void SwitchBird()
+    public void Quit()
     {
-        
+        Debug.Log("Quit");
+        Application.Quit();
     }
 }

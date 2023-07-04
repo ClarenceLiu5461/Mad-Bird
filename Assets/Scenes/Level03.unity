@@ -1240,7 +1240,7 @@ PrefabInstance:
     - target: {fileID: 1976110478288908665, guid: 4d0145a4c771f91449895e09a7ce299d,
         type: 3}
       propertyPath: nextLevelName
-      value: Level03
+      value: Credit
       objectReference: {fileID: 0}
     - target: {fileID: 1976110478288908670, guid: 4d0145a4c771f91449895e09a7ce299d,
         type: 3}
